@@ -1,3 +1,2 @@
-Currently, this calculator relies on Fehskens-Malewicki equations. The issue with this is that it results in the estimates of altitude and velocity being significantly higher than what one would see in field. This is due to the underestimation of drag present in these simplified equations. 
-Naturally, this is an assumption based on the result of calculating for the change in velocity using the formula for impulse. 
-
+Currently, this calculator relies on Fehskens-Malewicki equations. The issue is that this over estimates the predicted altitude by quite a lot. For rough testing it shoud be fine. 
+I do plan to start calculating the values using integration for more accuract results (my primary motivation for this is because drag scales exponentially).
