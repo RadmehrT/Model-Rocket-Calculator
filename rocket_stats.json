@@ -1,0 +1,10 @@
+{
+  "rocket_mass": 0.1448,
+  "engine_thrust": 12.5,
+  "burn_time": 1.6,
+  "total_impulse": 20,
+  "diameter": 0.041656,
+  "drag_coefficient": 0.75,
+  "air_density": 1.225,
+  "gravity": 9.81
+}
