@@ -1,5 +1,6 @@
 {
   "rocket_mass": 0.1448,
+  "propellant mass": 0.0456,
   "engine_thrust": 12.5,
   "burn_time": 1.6,
   "total_impulse": 20,
