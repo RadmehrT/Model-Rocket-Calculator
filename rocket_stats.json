@@ -1,11 +1,99 @@
 {
-  "rocket_mass": 0.1448,
-  "propellant mass": 0.0456,
-  "engine_thrust": 12.5,
-  "burn_time": 1.6,
-  "total_impulse": 20,
-  "diameter": 0.041656,
-  "drag_coefficient": 0.75,
-  "air_density": 1.225,
-  "gravity": 9.81
+  "rocket:1": {
+    "rocket_mass": 0.1284,
+    "propellant_mass": 0.0124,
+    "engine_thrust": 10.9,
+    "burn_time": 0.8,
+    "total_impulse": 10,
+    "diameter": 0.042,
+    "drag_coefficient": 0.75,
+    "air_density": 1.225,
+    "gravity": 9.81,
+    "object_number": 1
+  },
+  "total_objects": 8,
+  "rocket:2": {
+    "rocket_mass": 0.1142,
+    "propellant_mass": 0.0124,
+    "engine_thrust": 10.9,
+    "burn_time": 0.8,
+    "total_impulse": 10,
+    "diameter": 0.034,
+    "drag_coefficient": 0.75,
+    "air_density": 1.225,
+    "gravity": 9.81,
+    "object_number": 2
+  },
+  "rocket:3": {
+    "rocket_mass": 0.0406,
+    "propellant_mass": 0.0065,
+    "engine_thrust": 6,
+    "burn_time": 0.8,
+    "total_impulse": 5,
+    "diameter": 0.018,
+    "drag_coefficient": 0.75,
+    "air_density": 1.225,
+    "gravity": 9.81,
+    "object_number": 3
+  },
+  "rocket:4": {
+    "rocket_mass": 0.1284,
+    "propellant_mass": 0.0124,
+    "engine_thrust": 8,
+    "burn_time": 0.8,
+    "total_impulse": 10,
+    "diameter": 0.042,
+    "drag_coefficient": 0.75,
+    "air_density": 1.225,
+    "gravity": 9.81,
+    "object_number": 4
+  },
+  "rocket:5": {
+    "rocket_mass": 0.1284,
+    "propellant_mass": 0.0124,
+    "engine_thrust": 8,
+    "burn_time": 0.8,
+    "total_impulse": 10,
+    "diameter": 0.042,
+    "drag_coefficient": 0.75,
+    "air_density": 1.225,
+    "gravity": 9.81,
+    "object_number": 5
+  },
+  "rocket:6": {
+    "rocket_mass": 0.1284,
+    "propellant_mass": 0.0124,
+    "engine_thrust": 8,
+    "burn_time": 0.8,
+    "total_impulse": 10,
+    "diameter": 0.042,
+    "drag_coefficient": 0.75,
+    "air_density": 1.225,
+    "gravity": 9.81,
+    "object_number": 6
+  },
+  "rocket:7": {
+    "rocket_mass": 0.1284,
+    "propellant_mass": 0.0124,
+    "engine_thrust": 8,
+    "burn_time": 0.8,
+    "total_impulse": 10,
+    "diameter": 0.042,
+    "drag_coefficient": 0.75,
+    "air_density": 1.225,
+    "gravity": -9.81,
+    "object_number": 7
+  },
+  "rocket:8": {
+    "rocket_mass": 0.1284,
+    "propellant_mass": 0.0124,
+    "engine_thrust": 8,
+    "burn_time": 0.8,
+    "total_impulse": 10,
+    "diameter": 0.042,
+    "drag_coefficient": 0.75,
+    "air_density": 1.225,
+    "gravity": 9.81,
+    "object_number": 8
+  }
 }
